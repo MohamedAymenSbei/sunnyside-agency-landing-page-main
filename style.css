@@ -83,6 +83,7 @@ body{
 }
 .menu-icon{
     display: none;
+    cursor: pointer;
 }
 .menu-icon img{
     width: 2rem!important;
